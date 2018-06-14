@@ -1,0 +1,25 @@
+{
+  "name": "MyBootstrapApp",
+  "homepage": "https://github.com/Juan120/DAW_JUANN",
+  "authors": [
+    "Juan120 <juancortttes@gmail.com>"
+  ],
+  "description": "How to use bootstrap framework",
+  "main": "index.html",
+  "keywords": [
+    "rodrigo23"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fontawesome": "^5.0.13",
+    "bootstrap": "^4.1.1",
+    "jquery": "^3.3.1"
+  }
+}
